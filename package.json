@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/glabrie10/Pokedex/issues"
   },
-  "homepage": "https://github.com/glabrie10/Pokedex#readme"
+  "homepage": "https://github.com/glabrie10/Pokedex#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
