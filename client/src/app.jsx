@@ -1,6 +1,12 @@
-// index.jsx
-import App from './App.jsx';
+// App.jsx
 import React from 'react';
-import ReactDOM from 'react-dom';
 
-ReactDOM.render(<App/>, document.getElementById('root'));
+const App = () => {
+    return (
+        <div>
+            Hello World!
+        </div>
+    );
+}
+
+export default App;
